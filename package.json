@@ -16,6 +16,7 @@
     "@actions/tool-cache": "^1.1.2"
   },
   "devDependencies": {
+    "minimist": ">=1.2.2",
     "standard": "^14.3.1"
   }
 }
